@@ -36,7 +36,7 @@ LinkedIn: https://www.linkedin.com/in/veer-patel-software-engineer/
 ## Software Engineers
 **Arihita Dirghangi (Virginia Tech)** 
 
-Email: arihita@vt.edu 
+Email: arihita@vt.edu, arihita.dirghangi@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/arihita-dirghangi-82aa17218/ 
 
