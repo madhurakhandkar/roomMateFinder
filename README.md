@@ -43,5 +43,3 @@ Email: viv.nquyen@gmail.com, vivinguyxn@vt.edu
 LinkedIn: www.linkedin.com/in/viviannguyen-vt
 
 **Nina Yang (Virginia Tech)**
-
-**Brandon (Penn State)**
