@@ -14,9 +14,11 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable lock
 drawable mail
+drawable user
 font fira_sans_thin
 id animation
 id button
+id button2
 id checkBox
 id checkBox2
 id editTextText
@@ -24,12 +26,13 @@ id editTextText2
 id editTextTextPassword
 id imageView
 id imageView2
+id imageView3
 id main
 id textView
 id textView3
 layout activity_login
 layout activity_main
-layout activity_sign_in
+layout activity_sign_up
 layout activity_splash_screen
 mipmap ic_launcher
 mipmap ic_launcher_round

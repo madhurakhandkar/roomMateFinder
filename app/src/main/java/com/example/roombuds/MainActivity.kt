@@ -2,6 +2,7 @@ package com.example.roombuds
 
 import android.content.Intent
 import android.os.Bundle
+import android.widget.Button
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -21,12 +22,6 @@ class MainActivity : AppCompatActivity() {
         // Start the LoginActivity
         val intent = Intent(this, LoginActivity::class.java)
         startActivity(intent)
-
-        // Optional: Finish the MainActivity
-        finish()
-
-        val intent2 = Intent(this, SignInActivity::class.java)
-        startActivity(intent2)
 
         finish()
     }
