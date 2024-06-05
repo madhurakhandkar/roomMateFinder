@@ -7,6 +7,9 @@ android {
     namespace = "com.example.roombuds"
     compileSdk = 34
 
+    buildFeatures{
+        viewBinding = true
+    }
     defaultConfig {
         applicationId = "com.example.roombuds"
         minSdk = 24
