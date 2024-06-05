@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-35:12
 MERGED from [androidx.databinding:viewbinding:8.4.0] C:\Users\Madhura Khandkar\.gradle\caches\transforms-4\d49931ad603f63c93f061b50c96b9b8f\transformed\viewbinding-8.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Madhura Khandkar\.gradle\caches\transforms-4\004b5c6650afce95965544b16e73ebd0\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Madhura Khandkar\.gradle\caches\transforms-4\0fb3108b3025993b4a78d472cabb24e6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -58,8 +58,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Madhura
 	xmlns:android
 		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:5:5-30:19
-INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:5:5-30:19
+ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:5:5-33:19
+INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:5:5-33:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Madhura Khandkar\.gradle\caches\transforms-4\004b5c6650afce95965544b16e73ebd0\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Madhura Khandkar\.gradle\caches\transforms-4\004b5c6650afce95965544b16e73ebd0\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Madhura Khandkar\.gradle\caches\transforms-4\0fb3108b3025993b4a78d472cabb24e6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -100,34 +100,40 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ma
 		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:13:9-46
 	android:dataExtractionRules
 		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.roombuds.LoginActivity
+activity#com.example.roombuds.SignInActivity
 ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:16:13-42
+		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:16:13-43
+activity#com.example.roombuds.LoginActivity
+ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:19:13-42
 activity#com.example.roombuds.SplashScreenActivity
-ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:18:9-26:20
+ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:21:9-29:20
 	android:exported
-		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:20:13-36
+		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:19:13-49
+		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:22:13-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:27:27-74
 activity#com.example.roombuds.MainActivity
-ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:27:9-29:40
+ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:30:9-32:40
 	android:exported
-		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:29:13-37
+		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:28:13-41
+		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:31:13-41
 uses-sdk
 INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml

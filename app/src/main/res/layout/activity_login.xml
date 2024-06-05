@@ -3,30 +3,31 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
-    android:background="@drawable/background"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/background"
     tools:context=".LoginActivity">
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="148dp"
+        android:layout_width="228dp"
+        android:layout_height="86dp"
+        android:layout_marginTop="164dp"
         android:fontFamily="sans-serif-medium"
         android:text="RoomBuds"
         android:textColor="#E6CEAF"
-        android:textSize="32sp"
+        android:textSize="45sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
         android:id="@+id/editTextText"
-        android:layout_width="283dp"
-        android:layout_height="49dp"
-        android:layout_marginTop="60dp"
+        android:layout_width="288dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="56dp"
         android:layout_marginEnd="64dp"
         android:background="@drawable/editextshape"
         android:ems="10"
@@ -36,26 +37,26 @@
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.82"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="12dp"
+        android:layout_width="30dp"
+        android:layout_height="27dp"
+        android:layout_marginTop="16dp"
         app:layout_constraintEnd_toEndOf="@+id/editTextText"
-        app:layout_constraintHorizontal_bias="0.93"
+        app:layout_constraintHorizontal_bias="0.926"
         app:layout_constraintStart_toStartOf="@+id/editTextText"
         app:layout_constraintTop_toTopOf="@+id/editTextText"
         app:srcCompat="@drawable/mail" />
 
     <EditText
         android:id="@+id/editTextTextPassword"
-        android:layout_width="283dp"
-        android:layout_height="49dp"
-        android:layout_marginTop="40dp"
+        android:layout_width="288dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="52dp"
         android:background="@drawable/editextshape"
         android:ems="10"
         android:hint=" Password"
@@ -64,29 +65,61 @@
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="@+id/editTextText"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="@+id/editTextText"
         app:layout_constraintTop_toBottomOf="@+id/editTextText" />
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="25dp"
-        android:layout_height="23dp"
-        android:layout_marginTop="12dp"
+        android:layout_width="30dp"
+        android:layout_height="27dp"
+        android:layout_marginTop="24dp"
         app:layout_constraintEnd_toEndOf="@+id/editTextTextPassword"
-        app:layout_constraintHorizontal_bias="0.934"
+        app:layout_constraintHorizontal_bias="0.927"
         app:layout_constraintStart_toStartOf="@+id/editTextTextPassword"
         app:layout_constraintTop_toTopOf="@+id/editTextTextPassword"
         app:srcCompat="@drawable/lock" />
 
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="246dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="20dp"
+        android:buttonTint="@color/defcolor"
+        android:fontFamily="sans-serif-medium"
+        android:text="Remember Me"
+        android:textColor="#E38D4D"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/editTextTextPassword" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="173dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="84dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Forgot password?"
+        android:textColor="#E38D4D"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword" />
+
     <Button
         android:id="@+id/button"
-        android:layout_width="198dp"
-        android:layout_height="51dp"
-        android:background="@color/hintColor"
+        android:layout_width="288dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="376dp"
+        android:backgroundTint="@color/defcolor"
+        android:fontFamily="sans-serif-medium"
         android:text="Login"
         android:textColor="#000000"
-        tools:layout_editor_absoluteX="106dp"
-        tools:layout_editor_absoluteY="455dp" />
+        android:textSize="24sp"
+        app:cornerRadius="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

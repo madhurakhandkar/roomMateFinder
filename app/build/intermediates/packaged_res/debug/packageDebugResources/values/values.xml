@@ -18,6 +18,7 @@
         <item>@font/fira_sans_thin</item>
     </array>
     <color name="black">#FF000000</color>
+    <color name="defcolor">#E5CDAE</color>
     <color name="hintColor">#777777</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">roomBuds</string>
