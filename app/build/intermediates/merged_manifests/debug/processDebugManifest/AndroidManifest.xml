@@ -28,7 +28,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.RoomBuds" >
         <activity
-            android:name="com.example.roombuds.SignInActivity"
+            android:name="com.example.roombuds.SignUpActivity"
             android:exported="false" />
         <activity
             android:name="com.example.roombuds.LoginActivity"

@@ -13,13 +13,9 @@ class SignUpActivity : AppCompatActivity() {
         setContentView(R.layout.activity_sign_up)
 
         val button2 = findViewById<Button>(R.id.button2)
-
-        val intent = Intent(this, LoginActivity::class.java)
-        intent.putExtra("key", "value")
-
         button2.setOnClickListener {
-            startActivity(intent)
+            val intent = Intent(this, LoginActivity::class.java)
+             startActivity(intent)
         }
-        finish()
     }
 }
