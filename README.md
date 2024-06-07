@@ -34,8 +34,6 @@ LinkedIn: https://www.linkedin.com/in/veer-patel-software-engineer/
 
 ## Software Engineers
 
-**Ethan Brown (Virginia Tech)**
-
 **Vivian Nguyen (Virginia Tech)**
 
 Email: viv.nquyen@gmail.com, vivinguyxn@vt.edu
