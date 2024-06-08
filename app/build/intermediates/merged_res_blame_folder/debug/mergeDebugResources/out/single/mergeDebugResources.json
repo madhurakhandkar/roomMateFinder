@@ -1,114 +1,118 @@
 [
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "com.example.roombuds.app-debug-32:/layout_activity_main.xml.flat",
-        "source": "com.example.roombuds.app-main-34:/layout/activity_main.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.roombuds.app-debug-40:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.roombuds.app-main-42:/layout/activity_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\layout_activity_sign_up.xml.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\layout\\activity_sign_up.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\drawable_lock.png.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\drawable\\lock.png"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\drawable_background.xml.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\drawable\\background.xml"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\drawable_user.png.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\drawable\\user.png"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\drawable_editextshape.xml.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\drawable\\editextshape.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\layout_activity_splash_screen.xml.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\raw_animated_logo.json.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\raw\\animated_logo.json"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\font_fira_sans_thin.xml.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\font\\fira_sans_thin.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.roombuds.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "com.example.roombuds.app-main-42:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\drawable_mail.png.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\drawable\\mail.png"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\drawable_background.xml.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\drawable\\background.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\drawable_editextshape.xml.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\drawable\\editextshape.xml"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\drawable_user.png.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\drawable\\user.png"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\font_fira_sans_thin.xml.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\font\\fira_sans_thin.xml"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\raw_animated_logo.json.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\raw\\animated_logo.json"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\drawable_lock.png.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\drawable\\lock.png"
     },
     {
-        "merged": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-32:\\drawable_mail.png.flat",
-        "source": "C:\\Users\\Madhura Khandkar\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-34:\\drawable\\mail.png"
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-debug-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\23bro\\.gradle\\daemon\\8.6\\com.example.roombuds.app-main-42:\\drawable\\ic_launcher_foreground.xml"
     }
 ]

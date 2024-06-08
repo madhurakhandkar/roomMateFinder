@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010969811600",
+    "project_id": "roombuds-da86c",
+    "storage_bucket": "roombuds-da86c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010969811600:android:5a07740b86c024f21f1615",
+        "android_client_info": {
+          "package_name": "com.example.roombuds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpLdIBA2oBiIguY9lWLLIfonPGkAM3v3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
