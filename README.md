@@ -10,12 +10,11 @@ xyz
 
 
 ## Project Manager & Software Engineer
-**Gautam Soni  (Virginia Tech)**
+**Arihita Dirghangi (Virginia Tech)** 
 
-Email: gsoni05@outlook.com, gsoni@vt.edu 
+Email: arihita@vt.edu, arihita.dirghangi@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/gsoni16/
-
+LinkedIn: https://www.linkedin.com/in/arihita-dirghangi-82aa17218/ 
 
 ## Founder & Software Engineer 
 **Madhura Khandkar (Penn State)**
@@ -34,21 +33,6 @@ LinkedIn: https://www.linkedin.com/in/veer-patel-software-engineer/
 
 
 ## Software Engineers
-**Arihita Dirghangi (Virginia Tech)** 
-
-Email: arihita@vt.edu 
-
-LinkedIn: https://www.linkedin.com/in/arihita-dirghangi-82aa17218/ 
-
-
-**Ethan Brown (Virginia Tech)**
-
-**Dowon Lee (Virginia Tech)**
-
-Email: aidenlee478@gmail.com, ldowon@vt.edu
-
-LinkedIn: https://www.linkedin.com/in/dowonlee218/
-
 
 **Vivian Nguyen (Virginia Tech)**
 
@@ -57,5 +41,3 @@ Email: viv.nquyen@gmail.com, vivinguyxn@vt.edu
 LinkedIn: www.linkedin.com/in/viviannguyen-vt
 
 **Nina Yang (Virginia Tech)**
-
-**Brandon (Penn State)**

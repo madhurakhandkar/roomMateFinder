@@ -18,8 +18,19 @@
         <item>@font/fira_sans_thin</item>
     </array>
     <color name="black">#FF000000</color>
+    <color name="defcolor">#E5CDAE</color>
+    <color name="hintColor">#777777</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">roomBuds</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="gcm_defaultSenderId" translatable="false">1010969811600</string>
+    <string name="google_api_key" translatable="false">AIzaSyDpLdIBA2oBiIguY9lWLLIfonPGkAM3v3g</string>
+    <string name="google_app_id" translatable="false">1:1010969811600:android:5a07740b86c024f21f1615</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDpLdIBA2oBiIguY9lWLLIfonPGkAM3v3g</string>
+    <string name="google_storage_bucket" translatable="false">roombuds-da86c.appspot.com</string>
+    <string name="password">Password</string>
+    <string name="project_id" translatable="false">roombuds-da86c</string>
     <string name="roombuds">roomBuds</string>
     <style name="Base.Theme.RoomBuds" parent="Theme.Material3.DayNight.NoActionBar">
         

@@ -10,7 +10,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
-class SplashScreenActivity : AppCompatActivity() {
+class SplashScreenActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -27,8 +27,9 @@ class SplashScreenActivity : AppCompatActivity() {
         )
 
         Handler(Looper.getMainLooper()).postDelayed({
-            val intent = Intent(this@SplashScreenActivity, MainActivity::class.java)
-            startActivity(intent)
+           // val intent = Intent(this@SplashScreenActivity, MainActivity::class.java)
+         //   startActivity(intent)
+            startActivity(Intent(this@SplashScreenActivity, LoginActivity::class.java))
             finish()
         },3000)
     }

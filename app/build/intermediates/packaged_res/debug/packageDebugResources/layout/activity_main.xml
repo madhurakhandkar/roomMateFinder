@@ -9,17 +9,17 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="match_parent"
-        android:layout_height="47dp"
-        android:layout_marginTop="60dp"
+        android:id="@+id/textView"
+        android:layout_width="228dp"
+        android:layout_height="86dp"
+        android:layout_marginTop="68dp"
         android:fontFamily="sans-serif-medium"
         android:text="RoomBuds"
-        android:textAlignment="center"
         android:textColor="#E6CEAF"
-        android:textSize="35sp"
+        android:textSize="45sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
