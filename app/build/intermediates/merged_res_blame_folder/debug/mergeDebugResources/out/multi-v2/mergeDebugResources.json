@@ -1928,7 +1928,24 @@
             "outputFile": "com.example.roombuds.app-debug-40:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\23bro\\StudioProjects\\roomMateFinder\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\23bro\\.gradle\\caches\\transforms-4\\05e36a3d6a3c7c2628c67b931e5a2cfe\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,39",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "171,241,325,409,505,607,709,3691",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "236,320,404,500,602,704,798,3775"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\23bro\\Documents\\GitHub\\roomMateFinder\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1944,23 +1961,6 @@
                         "endLines": "5",
                         "endColumns": "12",
                         "endOffsets": "166"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\23bro\\.gradle\\caches\\transforms-4\\05e36a3d6a3c7c2628c67b931e5a2cfe\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593,687",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "120,204,288,384,486,588,682,771"
-                    },
-                    "to": {
-                        "startLines": "6,7,8,9,10,11,12,39",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "171,241,325,409,505,607,709,3691",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "236,320,404,500,602,704,798,3775"
                     }
                 },
                 {
@@ -5143,6 +5143,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\23bro\\Documents\\GitHub\\roomMateFinder\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,3,5,4,2",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "17,111,199,152,64",
+                        "endColumns": "45,39,47,45,45",
+                        "endOffsets": "58,146,242,193,105"
+                    },
+                    "to": {
+                        "startLines": "2017,2055,2066,2181,2188",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "136165,140739,141622,158064,158987",
+                        "endColumns": "45,39,47,45,45",
+                        "endOffsets": "136206,140774,141665,158105,159028"
+                    }
+                },
+                {
                     "source": "C:\\Users\\23bro\\.gradle\\caches\\transforms-4\\810e5fd0b85e415f353ba35cb1307f5d\\transformed\\credentials-1.2.0-rc01\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -5176,25 +5193,6 @@
                         "endLines": "524,1139,1140,1141,1149,1150,1151,1843,12825",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "29363,71024,71072,71128,71814,71890,71962,125519,780234"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\23bro\\StudioProjects\\roomMateFinder\\app\\src\\main\\res\\values\\font_certs.xml",
-                    "from": {
-                        "startLines": "2,6,11",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "57,263,1993",
-                        "endLines": "5,10,15",
-                        "endColumns": "12,19,19",
-                        "endOffsets": "257,1987,3582"
-                    },
-                    "to": {
-                        "startLines": "2,6,11",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "150,352,2077",
-                        "endLines": "5,10,15",
-                        "endColumns": "12,19,19",
-                        "endOffsets": "347,2072,3662"
                     }
                 },
                 {
@@ -5363,22 +5361,58 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\23bro\\StudioProjects\\roomMateFinder\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
+                    "source": "C:\\Users\\23bro\\Documents\\GitHub\\roomMateFinder\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "165"
+                        "startLines": "2,5,4,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,188,143,100",
+                        "endColumns": "41,42,43,41",
+                        "endOffsets": "94,226,182,137"
                     },
                     "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "3667",
-                        "endLines": "18",
-                        "endColumns": "12",
-                        "endOffsets": "3773"
+                        "startLines": "659,686,732,992",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "36550,38533,41680,61233",
+                        "endColumns": "41,42,43,41",
+                        "endOffsets": "36587,38571,41719,61270"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\23bro\\Documents\\GitHub\\roomMateFinder\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,330",
+                        "endLines": "5,7",
+                        "endColumns": "12,64",
+                        "endOffsets": "322,390"
+                    },
+                    "to": {
+                        "startLines": "2624,6616",
+                        "startColumns": "4,4",
+                        "startOffsets": "188130,468024",
+                        "endLines": "2627,6616",
+                        "endColumns": "12,63",
+                        "endOffsets": "188241,468083"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\23bro\\Documents\\GitHub\\roomMateFinder\\app\\src\\main\\res\\values\\font_certs.xml",
+                    "from": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,263,1993",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "257,1987,3582"
+                    },
+                    "to": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "150,352,2077",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "347,2072,3662"
                     }
                 },
                 {
@@ -5437,24 +5471,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\23bro\\StudioProjects\\roomMateFinder\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,3,5,4,2",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "17,111,199,152,64",
-                        "endColumns": "45,39,47,45,45",
-                        "endOffsets": "58,146,242,193,105"
-                    },
-                    "to": {
-                        "startLines": "2017,2055,2066,2181,2188",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "136165,140739,141622,158064,158987",
-                        "endColumns": "45,39,47,45,45",
-                        "endOffsets": "136206,140774,141665,158105,159028"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\23bro\\StudioProjects\\roomMateFinder\\app\\build\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
+                    "source": "C:\\Users\\23bro\\Documents\\GitHub\\roomMateFinder\\app\\build\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -5471,39 +5488,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\23bro\\StudioProjects\\roomMateFinder\\app\\src\\main\\res\\values\\themes.xml",
+                    "source": "C:\\Users\\23bro\\Documents\\GitHub\\roomMateFinder\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
                     "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "102,330",
-                        "endLines": "5,7",
-                        "endColumns": "12,64",
-                        "endOffsets": "322,390"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "165"
                     },
                     "to": {
-                        "startLines": "2624,6616",
-                        "startColumns": "4,4",
-                        "startOffsets": "188130,468024",
-                        "endLines": "2627,6616",
-                        "endColumns": "12,63",
-                        "endOffsets": "188241,468083"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\23bro\\StudioProjects\\roomMateFinder\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,5,4,3",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "57,188,143,100",
-                        "endColumns": "41,42,43,41",
-                        "endOffsets": "94,226,182,137"
-                    },
-                    "to": {
-                        "startLines": "659,686,732,992",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "36550,38533,41680,61233",
-                        "endColumns": "41,42,43,41",
-                        "endOffsets": "36587,38571,41719,61270"
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "3667",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "3773"
                     }
                 },
                 {
