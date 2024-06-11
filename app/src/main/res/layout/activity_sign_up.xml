@@ -8,13 +8,12 @@
     android:background="@drawable/background"
     tools:context=".SignUpActivity">
 
-
   <TextView
       android:id="@+id/textView"
-      android:layout_width="228dp"
+      android:layout_width="260dp"
       android:layout_height="86dp"
       android:layout_marginTop="68dp"
-      android:fontFamily="sans-serif-medium"
+      android:fontFamily="@font/galindo"
       android:text="RoomBuds"
       android:textColor="#E6CEAF"
       android:textSize="45sp"
@@ -30,7 +29,7 @@
       android:layout_height="61dp"
       android:layout_marginTop="124dp"
       android:layout_marginEnd="64dp"
-      android:layout_marginBottom="658dp"
+      android:layout_marginBottom="650dp"
       android:background="@drawable/editextshape"
       android:ems="10"
       android:hint="@string/email"
@@ -42,7 +41,8 @@
       app:layout_constraintEnd_toEndOf="parent"
       app:layout_constraintHorizontal_bias="1.0"
       app:layout_constraintStart_toStartOf="parent"
-      app:layout_constraintTop_toBottomOf="@+id/textView" />
+      app:layout_constraintTop_toBottomOf="@+id/textView"
+      app:layout_constraintVertical_bias="1.0" />
 
   <ImageView
       android:id="@+id/imageView"
@@ -63,7 +63,7 @@
       android:layout_width="318dp"
       android:layout_height="57dp"
       android:layout_marginTop="365dp"
-      android:layout_marginBottom="575dp"
+      android:layout_marginBottom="565dp"
       android:background="@drawable/editextshape"
       android:ems="10"
       android:hint="@string/password"
@@ -73,8 +73,10 @@
       android:textStyle="bold"
       app:layout_constraintBottom_toBottomOf="parent"
       app:layout_constraintEnd_toEndOf="@+id/name"
+      app:layout_constraintHorizontal_bias="0.0"
       app:layout_constraintStart_toStartOf="@+id/email"
-      app:layout_constraintTop_toTopOf="parent" />
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="1.0" />
 
   <ImageView
       android:id="@+id/imageView2"
@@ -90,22 +92,25 @@
 
   <Button
       android:id="@+id/button"
-      android:layout_width="288dp"
-      android:layout_height="60dp"
+      android:layout_width="318dp"
+      android:layout_height="61dp"
       android:layout_marginStart="76dp"
       android:layout_marginTop="440dp"
       android:layout_marginEnd="84dp"
-      android:layout_marginBottom="343dp"
+      android:layout_marginBottom="370dp"
       android:backgroundTint="@color/defcolor"
       android:fontFamily="sans-serif-medium"
       android:text="Sign Up"
       android:textColor="#000000"
       android:textSize="24sp"
+      android:textStyle="bold"
       app:cornerRadius="20dp"
       app:layout_constraintBottom_toBottomOf="parent"
       app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.3"
       app:layout_constraintStart_toStartOf="parent"
-      app:layout_constraintTop_toBottomOf="@+id/textView" />
+      app:layout_constraintTop_toBottomOf="@+id/textView"
+      app:layout_constraintVertical_bias="1.0" />
 
   <EditText
       android:id="@+id/name"
@@ -130,16 +135,18 @@
       android:layout_width="292dp"
       android:layout_height="66dp"
       android:layout_marginTop="477dp"
-      android:layout_marginBottom="454dp"
+      android:layout_marginBottom="440dp"
       android:buttonTint="@color/defcolor"
       android:fontFamily="sans-serif-medium"
       android:text="Check the box to agree to the Terms and Conditions"
-      android:textColor="#E38D4D"
+      android:textColor="@color/white"
       android:textSize="18sp"
       app:layout_constraintBottom_toBottomOf="parent"
       app:layout_constraintEnd_toEndOf="@+id/Password"
+      app:layout_constraintHorizontal_bias="0.461"
       app:layout_constraintStart_toStartOf="@+id/Password"
-      app:layout_constraintTop_toTopOf="parent" />
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.0" />
 
   <ImageView
       android:id="@+id/imageView3"
@@ -162,14 +169,70 @@
       android:layout_marginStart="80dp"
       android:layout_marginTop="654dp"
       android:layout_marginEnd="81dp"
-      android:layout_marginBottom="212dp"
+      android:layout_marginBottom="90dp"
       android:backgroundTint="#1B2A3C"
       android:text="Already a member? Log In"
-      android:textColor="#E38D4D"
+      android:textColor="@color/white"
       android:textSize="17sp"
       app:layout_constraintBottom_toBottomOf="parent"
       app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.513"
       app:layout_constraintStart_toStartOf="parent"
-      app:layout_constraintTop_toTopOf="parent" />
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.8" />
+
+  <EditText
+      android:id="@+id/editTextText2"
+      android:layout_width="150dp"
+      android:layout_height="61dp"
+      android:layout_marginStart="148dp"
+      android:layout_marginTop="625dp"
+      android:layout_marginBottom="282dp"
+      android:ems="10"
+      android:fontFamily="sans-serif-medium"
+      android:inputType="text"
+      android:text="Or"
+      android:textAlignment="center"
+      android:textColor="@color/white"
+      android:textSize="20sp"
+      android:textStyle="bold"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.0" />
+
+  <ImageButton
+      android:id="@+id/imageButton"
+      android:layout_width="54dp"
+      android:layout_height="54dp"
+      android:layout_marginStart="160dp"
+      android:layout_marginTop="675dp"
+      android:layout_marginEnd="254dp"
+      android:layout_marginBottom="257dp"
+      android:contentDescription="GoogleImage"
+      android:scaleType="centerCrop"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.0"
+      app:srcCompat="@drawable/google_image" />
+
+  <ImageButton
+      android:id="@+id/imageButton2"
+      android:layout_width="54dp"
+      android:layout_height="54dp"
+      android:layout_marginStart="230dp"
+      android:layout_marginTop="675dp"
+      android:layout_marginEnd="140dp"
+      android:layout_marginBottom="268dp"
+      android:scaleType="centerCrop"
+      android:contentDescription="microsoftImage"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:srcCompat="@drawable/microsoft2" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

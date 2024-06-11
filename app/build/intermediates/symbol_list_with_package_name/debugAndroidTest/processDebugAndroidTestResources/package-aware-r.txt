@@ -1,3 +1,0 @@
-com.example.roombuds.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

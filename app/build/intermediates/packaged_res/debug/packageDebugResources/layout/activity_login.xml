@@ -6,7 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background"
-    tools:context=".LoginActivity">
+    tools:context=".LoginActivity"
+    android:visibility="visible">
 
     <Button
         android:id="@+id/button2"
@@ -17,9 +18,10 @@
         android:layout_marginEnd="81dp"
         android:layout_marginBottom="212dp"
         android:backgroundTint="#1B2A3C"
-        android:text="Already a member? Sign Up"
+        android:text="Not a member? Sign Up"
         android:textColor="#E38D4D"
         android:textSize="17sp"
+        android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.454"
@@ -37,6 +39,7 @@
         android:textColor="#E6CEAF"
         android:textSize="45sp"
         android:textStyle="bold"
+        android:visibility="visible"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
@@ -51,6 +54,7 @@
         android:layout_marginEnd="64dp"
         android:layout_marginBottom="626dp"
         android:background="@drawable/editextshape"
+        android:visibility="visible"
         android:ems="10"
         android:hint="@string/email"
         android:inputType="text"
@@ -70,6 +74,7 @@
         android:layout_marginTop="324dp"
         android:layout_marginEnd="22dp"
         android:layout_marginBottom="646dp"
+        android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/email"
         app:layout_constraintStart_toStartOf="@+id/email"
@@ -91,6 +96,7 @@
         android:textColorHint="@color/hintColor"
         android:textSize="20sp"
         android:textStyle="bold"
+        android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -104,6 +110,7 @@
         android:layout_marginTop="445dp"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="525dp"
+        android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/Password"
         app:layout_constraintStart_toStartOf="@+id/Password"
@@ -122,6 +129,7 @@
         android:text="Remember Me"
         android:textColor="#E38D4D"
         android:textSize="20sp"
+        android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@+id/textView3"
@@ -138,9 +146,11 @@
         android:text="Forgot password?"
         android:textColor="#E38D4D"
         android:textSize="18sp"
+        android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:visibility="visible" />
 
     <Button
         android:id="@+id/button"
@@ -153,6 +163,7 @@
         android:text="Login"
         android:textColor="#000000"
         android:textSize="24sp"
+        android:visibility="visible"
         app:cornerRadius="20dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
