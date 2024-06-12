@@ -4,4 +4,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="hintColor">#777777</color>
     <color name="defcolor">#E5CDAE</color>
+    <color name="my_blue">#007BFF</color>
+    <color name="my_red">#FF0000</color>
 </resources>
+
+
+
