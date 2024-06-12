@@ -16,6 +16,7 @@
     </string-array>
     <array name="preloaded_fonts" translatable="false">
         <item>@font/fira_sans_thin</item>
+        <item>@font/galindo</item>
     </array>
     <color name="black">#FF000000</color>
     <color name="defcolor">#E5CDAE</color>

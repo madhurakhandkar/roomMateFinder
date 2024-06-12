@@ -3072,6 +3072,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable editextshape
+drawable google_image
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_arrow_back_black_24
@@ -3121,6 +3122,7 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+drawable microsoft2
 drawable mtrl_bottomsheet_drag_handle
 drawable mtrl_checkbox_button
 drawable mtrl_checkbox_button_checked_unchecked
@@ -3177,6 +3179,7 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable user
 font fira_sans_thin
+font galindo
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -3364,6 +3367,8 @@ id easeInOut
 id easeOut
 id east
 id edge
+id editTextText
+id editTextText2
 id edit_query
 id edit_text_id
 id elastic
@@ -3418,6 +3423,10 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageButton
+id imageButton2
+id imageButton6
+id imageButton9
 id imageView
 id imageView2
 id imageView3

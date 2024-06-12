@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:2:1-42:12
 MERGED from [androidx.databinding:viewbinding:8.4.0] C:\Users\Madhura Khandkar\.gradle\caches\transforms-4\1d48d0f6a269ffddacb556d84b57709a\transformed\viewbinding-8.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Madhura Khandkar\.gradle\caches\transforms-4\729995c37681356918a232ecc9b93860\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Madhura Khandkar\.gradle\caches\transforms-4\fde2685f50f77ac6172b787dd768fba6\transformed\firebase-auth-23.0.0\AndroidManifest.xml:17:1-75:12
@@ -85,8 +85,8 @@ MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Madhura Kha
 	android:name
 		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:6:5-36:19
-INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:6:5-36:19
+ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:6:5-40:19
+INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:6:5-40:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Madhura Khandkar\.gradle\caches\transforms-4\729995c37681356918a232ecc9b93860\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Madhura Khandkar\.gradle\caches\transforms-4\729995c37681356918a232ecc9b93860\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Madhura Khandkar\.gradle\caches\transforms-4\fde2685f50f77ac6172b787dd768fba6\transformed\firebase-auth-23.0.0\AndroidManifest.xml:28:5-73:19
@@ -189,6 +189,12 @@ ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main
 		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:35:13-37
 	android:name
 		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:34:13-41
+meta-data#preloaded_fonts
+ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:37:9-39:57
+	android:resource
+		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:39:13-54
+	android:name
+		ADDED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml:38:13-43
 uses-sdk
 INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Madhura Khandkar\AndroidStudioProjects\roomBuds\app\src\main\AndroidManifest.xml
