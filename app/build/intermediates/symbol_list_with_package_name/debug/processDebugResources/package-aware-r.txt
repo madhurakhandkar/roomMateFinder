@@ -2127,6 +2127,8 @@ color mtrl_textinput_disabled_color
 color mtrl_textinput_filled_box_default_background_color
 color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
+color my_blue
+color my_red
 color notification_action_color_filter
 color notification_icon_bg_color
 color primary_dark_material_dark
@@ -3174,6 +3176,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable person_pfp_removebg_preview
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3369,6 +3372,8 @@ id east
 id edge
 id editTextText
 id editTextText2
+id editTextText3
+id editTextText4
 id edit_query
 id edit_text_id
 id elastic
@@ -3425,6 +3430,7 @@ id ignoreRequest
 id image
 id imageButton
 id imageButton2
+id imageButton3
 id imageButton6
 id imageButton9
 id imageView
@@ -3834,6 +3840,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_create_profile
 layout activity_login
 layout activity_main
 layout activity_sign_up

@@ -32,6 +32,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.RoomBuds" >
         <activity
+            android:name="com.example.roombuds.CreateProfile"
+            android:exported="false" />
+        <activity
             android:name="com.example.roombuds.SignUpActivity"
             android:exported="false"
             android:theme="@style/Theme.RoomBuds" />

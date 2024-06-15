@@ -24,6 +24,10 @@
         "source": "com.example.roombuds.app-main-42:/layout/activity_splash_screen.xml"
     },
     {
+        "merged": "com.example.roombuds.app-debug-40:/layout_activity_create_profile.xml.flat",
+        "source": "com.example.roombuds.app-main-42:/layout/activity_create_profile.xml"
+    },
+    {
         "merged": "com.example.roombuds.app-debug-40:/drawable_google_image.png.flat",
         "source": "com.example.roombuds.app-main-42:/drawable/google_image.png"
     },
@@ -98,6 +102,10 @@
     {
         "merged": "com.example.roombuds.app-debug-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "com.example.roombuds.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.roombuds.app-debug-40:/drawable_person_pfp_removebg_preview.png.flat",
+        "source": "com.example.roombuds.app-main-42:/drawable/person_pfp_removebg_preview.png"
     },
     {
         "merged": "com.example.roombuds.app-debug-40:/font_galindo.xml.flat",

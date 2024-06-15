@@ -7,6 +7,8 @@ array preloaded_fonts
 color black
 color defcolor
 color hintColor
+color my_blue
+color my_red
 color white
 drawable background
 drawable editextshape
@@ -16,6 +18,7 @@ drawable ic_launcher_foreground
 drawable lock
 drawable mail
 drawable microsoft2
+drawable person_pfp_removebg_preview
 drawable user
 font fira_sans_thin
 font galindo
@@ -27,9 +30,12 @@ id checkBox
 id checkBox2
 id editTextText
 id editTextText2
+id editTextText3
+id editTextText4
 id email
 id imageButton
 id imageButton2
+id imageButton3
 id imageButton6
 id imageButton9
 id imageView
@@ -39,6 +45,7 @@ id main
 id name
 id textView
 id textView3
+layout activity_create_profile
 layout activity_login
 layout activity_main
 layout activity_sign_up
