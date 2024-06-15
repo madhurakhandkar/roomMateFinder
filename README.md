@@ -41,3 +41,7 @@ Email: viv.nquyen@gmail.com, vivinguyxn@vt.edu
 LinkedIn: www.linkedin.com/in/viviannguyen-vt
 
 **Nina Yang (Virginia Tech)**
+
+Email: yangnina2004@gmail.com, ynina@vt.edu
+
+LinkedIn: www.linkedin.com/in/nina-yang-7a03232a2
