@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".LoginActivity">
+
+    <Button
+        android:id="@+id/button_continue"
+        android:layout_width="228dp"
+        android:layout_height="67dp"
+        android:backgroundTint="@color/white"
+        android:fontFamily="sans-serif-medium"
+        android:text="Continue"
+        android:textColor="@color/black"
+        android:textSize="27sp"
+        android:textStyle="bold"
+        app:cornerRadius="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.878" />
+
+    <EditText
+        android:id="@+id/edittext_college_name"
+        android:layout_width="340dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="104dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Add Your Favorite Images!"
+        android:textAlignment="center"
+        android:textColor="#E6CEAF"
+        android:textSize="27dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="165dp"
+        android:layout_height="249dp"
+        app:srcCompat="@drawable/whiteboxcross"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="201dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
