@@ -8,6 +8,50 @@
     android:background="@drawable/background"
     tools:context=".LoginActivity">
 
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="165dp"
+        android:layout_height="249dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="530dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/whiteboxcross" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="165dp"
+        android:layout_height="249dp"
+        android:layout_marginStart="230dp"
+        android:layout_marginTop="530dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/whiteboxcross" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="165dp"
+        android:layout_height="249dp"
+        android:layout_marginStart="230dp"
+        android:layout_marginTop="258dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/whiteboxcross" />
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="165dp"
+        android:layout_height="249dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="258dp"
+        android:layout_marginEnd="248dp"
+        android:layout_marginBottom="490dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/whiteboxcross" />
+
     <Button
         android:id="@+id/button_continue"
         android:layout_width="228dp"
@@ -41,13 +85,5 @@
         app:layout_constraintHorizontal_bias="0.507"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
-    <ImageView
-        android:id="@+id/imageView7"
-        android:layout_width="165dp"
-        android:layout_height="249dp"
-        app:srcCompat="@drawable/whiteboxcross"
-        tools:layout_editor_absoluteX="55dp"
-        tools:layout_editor_absoluteY="201dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
