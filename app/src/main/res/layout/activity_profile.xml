@@ -9,16 +9,18 @@
 
     <ImageView
         android:id="@+id/imageView4"
-        android:layout_width="53dp"
-        android:layout_height="46dp"
+        android:layout_width="111dp"
+        android:layout_height="118dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="22dp"
         android:layout_marginEnd="379dp"
         android:layout_marginBottom="929dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.115"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.055"
         app:srcCompat="@drawable/img" />
 
     <ImageView
@@ -31,187 +33,126 @@
         android:layout_marginBottom="782dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.579"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.17"
         app:srcCompat="@drawable/person_pfp_removebg_preview" />
 
     <ImageView
         android:id="@+id/imageView6"
-        android:layout_width="57dp"
-        android:layout_height="46dp"
+        android:layout_width="102dp"
+        android:layout_height="134dp"
         android:layout_marginStart="338dp"
         android:layout_marginTop="32dp"
         android:layout_marginEnd="53dp"
         android:layout_marginBottom="919dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.03"
         app:srcCompat="@drawable/settings_button" />
+
+    <ImageView
+        android:id="@+id/imageView24"
+        android:layout_width="692dp"
+        android:layout_height="203dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="1507dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/bar" />
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="75dp"
+        android:layout_height="68dp"
+        android:layout_marginStart="457dp"
+        android:layout_marginTop="1573dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/chat" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="83dp"
+        android:layout_height="77dp"
+        android:layout_marginStart="225dp"
+        android:layout_marginTop="1568dp"
+        android:layout_marginEnd="431dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/bell" />
+
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="14dp"
+        android:layout_height="15dp"
+        android:layout_marginStart="272dp"
+        android:layout_marginTop="1584dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/red_dot2" />
+
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="74dp"
+        android:layout_height="76dp"
+        android:layout_marginStart="579dp"
+        android:layout_marginTop="1568dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/account" />
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="80dp"
+        android:layout_height="73dp"
+        android:layout_marginStart="346dp"
+        android:layout_marginTop="1572dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/home" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="78dp"
+        android:layout_height="77dp"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="1568dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/Search_button" />
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="168dp"
-        android:layout_height="71dp"
+        android:layout_width="311dp"
+        android:layout_height="383dp"
         android:layout_marginStart="60dp"
         android:layout_marginTop="292dp"
         android:layout_marginEnd="220dp"
         android:layout_marginBottom="634dp"
         android:text="Bio......"
         android:textColor="#E6CEAF"
-        android:textSize="34sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0" />
-
-    <ImageView
-        android:id="@+id/imageView10"
-        android:layout_width="236dp"
-        android:layout_height="340dp"
-        android:layout_marginStart="169dp"
-        android:layout_marginTop="476dp"
-        android:layout_marginEnd="43dp"
-        android:layout_marginBottom="181dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/btn_default_small" />
-
-    <ImageView
-        android:id="@+id/imageView13"
-        android:layout_width="226dp"
-        android:layout_height="337dp"
-        android:layout_marginStart="121dp"
-        android:layout_marginTop="476dp"
-        android:layout_marginEnd="101dp"
-        android:layout_marginBottom="184dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/btn_default_small" />
-
-    <ImageView
-        android:id="@+id/imageView14"
-        android:layout_width="224dp"
-        android:layout_height="341dp"
-        android:layout_marginStart="70dp"
-        android:layout_marginTop="475dp"
-        android:layout_marginEnd="154dp"
-        android:layout_marginBottom="181dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/btn_default_small" />
-
-    <ImageView
-        android:id="@+id/imageView15"
-        android:layout_width="222dp"
-        android:layout_height="339dp"
-        android:layout_marginStart="31dp"
-        android:layout_marginTop="475dp"
-        android:layout_marginEnd="195dp"
-        android:layout_marginBottom="183dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/btn_default_small" />
-
-    <ImageView
-        android:id="@+id/imageView17"
-        android:layout_width="173dp"
-        android:layout_height="130dp"
-        android:layout_marginStart="55dp"
-        android:layout_marginTop="569dp"
-        android:layout_marginEnd="220dp"
-        android:layout_marginBottom="298dp"
+        android:textSize="96sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/plus_sign1" />
-
-    <Button
-        android:layout_width="431dp"
-        android:layout_height="73dp"
-        android:layout_marginStart="7dp"
-        android:layout_marginTop="919dp"
-        android:layout_marginEnd="10dp"
-        android:layout_marginBottom="5dp"
-        android:backgroundTint="#FDFCFC"
-        android:text="button4"
-        android:textColorLink="#F4EDED"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintVertical_bias="0.396" />
 
     <ImageView
-        android:id="@+id/imageView24"
-        android:layout_width="72dp"
-        android:layout_height="49dp"
-        android:layout_marginStart="36dp"
-        android:layout_marginTop="928dp"
-        android:layout_marginBottom="5dp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:id="@+id/imageView14"
+        android:layout_width="659dp"
+        android:layout_height="382dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="788dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.333"
-        app:srcCompat="@android:drawable/ic_search_category_default" />
-
-    <ImageView
-        android:id="@+id/imageView26"
-        android:layout_width="56dp"
-        android:layout_height="48dp"
-        android:layout_marginStart="112dp"
-        android:layout_marginTop="933dp"
-        android:layout_marginBottom="16dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/notification_bell" />
-
-    <ImageView
-        android:id="@+id/imageView28"
-        android:layout_width="98dp"
-        android:layout_height="59dp"
-        android:layout_marginStart="175dp"
-        android:layout_marginTop="923dp"
-        android:layout_marginBottom="15dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/home_icon" />
-
-    <ImageView
-        android:id="@+id/imageView29"
-        android:layout_width="62dp"
-        android:layout_height="64dp"
-        android:layout_marginStart="285dp"
-        android:layout_marginTop="919dp"
-        android:layout_marginBottom="14dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/sym_action_chat" />
-
-    <ImageView
-        android:id="@+id/imageView30"
-        android:layout_width="55dp"
-        android:layout_height="52dp"
-        android:layout_marginStart="350dp"
-        android:layout_marginTop="930dp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/user" />
+        app:srcCompat="@drawable/boxes" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
