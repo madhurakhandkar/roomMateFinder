@@ -64,11 +64,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77c52b56-d4a9-4674-959a-5d14bad69982" name="Changes" comment="Navigation Bar Correction on Profile Page">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml" afterDir="false" />
+    <list default="true" id="77c52b56-d4a9-4674-959a-5d14bad69982" name="Changes" comment="Navigation Bar Correction on all completed pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_notifications.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_notifications.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -435,7 +432,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721044641709</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Navigation Bar Correction on all completed pages">
+      <option name="closed" value="true" />
+      <created>1721051177853</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721051177853</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -457,6 +462,7 @@
     <MESSAGE value="Add College and Add Image- Nina" />
     <MESSAGE value="Add Image Completed" />
     <MESSAGE value="Navigation Bar Correction on Profile Page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Navigation Bar Correction on Profile Page" />
+    <MESSAGE value="Navigation Bar Correction on all completed pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Navigation Bar Correction on all completed pages" />
   </component>
 </project>
